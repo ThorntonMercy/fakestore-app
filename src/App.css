@@ -1,0 +1,13 @@
+/* To adjust the margin on the navbar */
+.navstart {
+  margin-left: 20px;
+}
+
+/* To adjust image size */
+.product-image {
+  width: 300px;
+  height: auto;
+  max-height: 300px;
+  border: 1px solid #000;
+  background-color: #000;
+}
